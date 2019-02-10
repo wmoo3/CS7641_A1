@@ -10,8 +10,9 @@
 &nbsp;&nbsp;**sklearn 0.20.0**   
 
 &nbsp;&nbsp;Command to run the code:  
-&nbsp;&nbsp;**python DT_diamonds.py**
-&nbsp;&nbsp;**python DT_poker.py**
-&nbsp;&nbsp;**python boosting_diamonds.py**
-&nbsp;&nbsp;**python boosting_poker.py**
-&nbsp;&nbsp;**..and so on...y**
+&nbsp;&nbsp;**python DT_diamonds.py**  
+&nbsp;&nbsp;**python DT_poker.py**  
+&nbsp;&nbsp;**python boosting_diamonds.py**  
+&nbsp;&nbsp;**python boosting_poker.py**  
+&nbsp;&nbsp;**..and so on...y**  
+
