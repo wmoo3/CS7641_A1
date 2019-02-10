@@ -1,7 +1,10 @@
 # CS7641_A1
 
 ### **Assignment 1 - Supervised Learning**  
-  
+ 
+&nbsp;&nbsp;Based on Jonathan Tay's CS7641 Assignment 1 Project  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;https://github.com/JonathanTay/CS-7641-assignment-1  
 &nbsp;&nbsp;The code was tested with python version 3.6.7
 
 &nbsp;&nbsp;Python packages used:  
