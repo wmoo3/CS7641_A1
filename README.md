@@ -14,5 +14,5 @@
 &nbsp;&nbsp;**python DT_poker.py**  
 &nbsp;&nbsp;**python boosting_diamonds.py**  
 &nbsp;&nbsp;**python boosting_poker.py**  
-&nbsp;&nbsp;**..and so on...y**  
+&nbsp;&nbsp;**..and so on...**  
 
